@@ -1,0 +1,155 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!65 &6677696888363642723
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4236354722108039225}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1, y: 0.909194, z: 1.0843879}
+  m_Center: {x: 0.0000003680883, y: 0.5856838, z: 1.6277103}
+--- !u!45 &1894071959420079220
+Skybox:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5512016016415825837}
+  m_Enabled: 1
+  m_CustomSkybox: {fileID: 2100000, guid: 4e154bf235e41704bbd6bbc6fd6c63f6, type: 2}
+--- !u!45 &693192487816937877
+Skybox:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 226835680166146774}
+  m_Enabled: 1
+  m_CustomSkybox: {fileID: 2100000, guid: 4e154bf235e41704bbd6bbc6fd6c63f6, type: 2}
+--- !u!45 &5854734695323135388
+Skybox:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2879178557161926194}
+  m_Enabled: 1
+  m_CustomSkybox: {fileID: 2100000, guid: 4e154bf235e41704bbd6bbc6fd6c63f6, type: 2}
+--- !u!1001 &976088254241068922
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 3981548434773748539, guid: 78e4fd2846647664e924f3575c896dd4,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 81.56
+      objectReference: {fileID: 0}
+    - target: {fileID: 3981548434773748539, guid: 78e4fd2846647664e924f3575c896dd4,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.7
+      objectReference: {fileID: 0}
+    - target: {fileID: 3981548434773748539, guid: 78e4fd2846647664e924f3575c896dd4,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 444.53
+      objectReference: {fileID: 0}
+    - target: {fileID: 3981548434773748539, guid: 78e4fd2846647664e924f3575c896dd4,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3981548434773748539, guid: 78e4fd2846647664e924f3575c896dd4,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.8433915
+      objectReference: {fileID: 0}
+    - target: {fileID: 3981548434773748539, guid: 78e4fd2846647664e924f3575c896dd4,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3981548434773748539, guid: 78e4fd2846647664e924f3575c896dd4,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.5372995
+      objectReference: {fileID: 0}
+    - target: {fileID: 3981548434773748539, guid: 78e4fd2846647664e924f3575c896dd4,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3981548434773748539, guid: 78e4fd2846647664e924f3575c896dd4,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3981548434773748539, guid: 78e4fd2846647664e924f3575c896dd4,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 245
+      objectReference: {fileID: 0}
+    - target: {fileID: 3981548434773748539, guid: 78e4fd2846647664e924f3575c896dd4,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3981548434773784387, guid: 78e4fd2846647664e924f3575c896dd4,
+        type: 3}
+      propertyPath: m_Name
+      value: Car Mercedes Red Day
+      objectReference: {fileID: 0}
+    - target: {fileID: 3981548434773784387, guid: 78e4fd2846647664e924f3575c896dd4,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4752808630355675346, guid: 78e4fd2846647664e924f3575c896dd4,
+        type: 3}
+      propertyPath: m_BackGroundColor.r
+      value: 0.08877714
+      objectReference: {fileID: 0}
+    - target: {fileID: 4752808630355675346, guid: 78e4fd2846647664e924f3575c896dd4,
+        type: 3}
+      propertyPath: m_BackGroundColor.g
+      value: 0.13129671
+      objectReference: {fileID: 0}
+    - target: {fileID: 4752808630355675346, guid: 78e4fd2846647664e924f3575c896dd4,
+        type: 3}
+      propertyPath: m_BackGroundColor.b
+      value: 0.1981132
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 78e4fd2846647664e924f3575c896dd4, type: 3}
+--- !u!1 &4236354722108039225 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 3981548434773784387, guid: 78e4fd2846647664e924f3575c896dd4,
+    type: 3}
+  m_PrefabInstance: {fileID: 976088254241068922}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &5512016016415825837 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 4752808630355675351, guid: 78e4fd2846647664e924f3575c896dd4,
+    type: 3}
+  m_PrefabInstance: {fileID: 976088254241068922}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &226835680166146774 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1057821175169131948, guid: 78e4fd2846647664e924f3575c896dd4,
+    type: 3}
+  m_PrefabInstance: {fileID: 976088254241068922}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &2879178557161926194 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 3062208864154204488, guid: 78e4fd2846647664e924f3575c896dd4,
+    type: 3}
+  m_PrefabInstance: {fileID: 976088254241068922}
+  m_PrefabAsset: {fileID: 0}

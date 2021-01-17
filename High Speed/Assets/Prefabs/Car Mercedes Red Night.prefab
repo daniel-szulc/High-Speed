@@ -1,0 +1,107 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!45 &6198017390599838933
+Skybox:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5713853465831526417}
+  m_Enabled: 1
+  m_CustomSkybox: {fileID: 2100000, guid: f531e09e2ad2fb440b4eed7605863143, type: 2}
+--- !u!1001 &5507425900786492103
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1894071959420079220, guid: e4f15aa04cfc11843b550a31bac4e8ae,
+        type: 3}
+      propertyPath: m_CustomSkybox
+      value: 
+      objectReference: {fileID: 2100000, guid: f531e09e2ad2fb440b4eed7605863143, type: 2}
+    - target: {fileID: 4236354722108013633, guid: e4f15aa04cfc11843b550a31bac4e8ae,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 81.56
+      objectReference: {fileID: 0}
+    - target: {fileID: 4236354722108013633, guid: e4f15aa04cfc11843b550a31bac4e8ae,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.7
+      objectReference: {fileID: 0}
+    - target: {fileID: 4236354722108013633, guid: e4f15aa04cfc11843b550a31bac4e8ae,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 444.53
+      objectReference: {fileID: 0}
+    - target: {fileID: 4236354722108013633, guid: e4f15aa04cfc11843b550a31bac4e8ae,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4236354722108013633, guid: e4f15aa04cfc11843b550a31bac4e8ae,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.8433915
+      objectReference: {fileID: 0}
+    - target: {fileID: 4236354722108013633, guid: e4f15aa04cfc11843b550a31bac4e8ae,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4236354722108013633, guid: e4f15aa04cfc11843b550a31bac4e8ae,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.5372995
+      objectReference: {fileID: 0}
+    - target: {fileID: 4236354722108013633, guid: e4f15aa04cfc11843b550a31bac4e8ae,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4236354722108013633, guid: e4f15aa04cfc11843b550a31bac4e8ae,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4236354722108013633, guid: e4f15aa04cfc11843b550a31bac4e8ae,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 245
+      objectReference: {fileID: 0}
+    - target: {fileID: 4236354722108013633, guid: e4f15aa04cfc11843b550a31bac4e8ae,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4236354722108039225, guid: e4f15aa04cfc11843b550a31bac4e8ae,
+        type: 3}
+      propertyPath: m_Name
+      value: Car Mercedes Red Night
+      objectReference: {fileID: 0}
+    - target: {fileID: 4236354722108039241, guid: e4f15aa04cfc11843b550a31bac4e8ae,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4236354722108039243, guid: e4f15aa04cfc11843b550a31bac4e8ae,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5854734695323135388, guid: e4f15aa04cfc11843b550a31bac4e8ae,
+        type: 3}
+      propertyPath: m_CustomSkybox
+      value: 
+      objectReference: {fileID: 2100000, guid: f531e09e2ad2fb440b4eed7605863143, type: 2}
+    m_RemovedComponents:
+    - {fileID: 693192487816937877, guid: e4f15aa04cfc11843b550a31bac4e8ae, type: 3}
+  m_SourcePrefab: {fileID: 100100000, guid: e4f15aa04cfc11843b550a31bac4e8ae, type: 3}
+--- !u!1 &5713853465831526417 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 226835680166146774, guid: e4f15aa04cfc11843b550a31bac4e8ae,
+    type: 3}
+  m_PrefabInstance: {fileID: 5507425900786492103}
+  m_PrefabAsset: {fileID: 0}
