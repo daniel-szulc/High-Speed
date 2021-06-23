@@ -7,6 +7,14 @@ The High Speed game is a racing game inspired on the well-known and popular prod
 
 ## Screenshots
 
+<img height=400px src="/screenshots/screen01.png" />
+
+<img height=400px src="/screenshots/screen02.png" />
+
+<img height=400px src="/screenshots/screen03.png" />
+
+<img height=400px src="/screenshots/screen04.png" />
+
 ## Controls
 
 <table>
