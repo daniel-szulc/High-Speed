@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="High Speed logo" height=300px src="https://raw.githubusercontent.com/DanielSzulc98/High-Speed/main/High%20Speed/Assets/Resources/Logo/Obszar%20roboczy%202logo.png" />
+  <img alt="High Speed logo" height=300px src="/High%20Speed/Assets/Resources/Logo/Obszar%20roboczy%202logo.png" />
   <h1 align="center">High Speed made by <a href="https://github.com/DanielSzulc98">Szulc</a>, <a href="https://github.com/gabordanielski">Danielski</a> and <a href="https://github.com/lukaszpl">Soroczyński</a></h1>
 </p>
 
